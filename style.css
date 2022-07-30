@@ -1,0 +1,76 @@
+ 
+
+h1{
+    font-size: 70px;
+    color: yellow;
+  
+}
+p{
+    font-size: 20px;
+    color:white;
+    text-align: left;
+}
+a{
+    background-color:brown;
+    color:white;
+    padding: 10px;
+    
+} 
+a:hover{
+    color: white;
+    background-color: brown;
+    padding: 20px;
+    transition: 0.2s;
+}
+a:active
+{
+    color: black;
+}
+
+a{
+    background-color:brown;
+    color:white;
+    padding: 10px;
+    text-decoration: none;
+    
+} 
+a:hover{
+    color: white;
+    background-color: brown;
+    padding: 20px;
+    transition: 0.2s;
+}
+a:active
+{
+    color: black;
+}
+
+
+
+
+.nav{
+    background-color: yellow;
+    padding: 20px;
+    text-align: right;
+}
+.ab{
+    color:white;
+    background-color: brown;
+    text-align: right;
+}
+.cd{
+    color:white;
+    background-color: brown;
+    text-align: right;
+}
+
+.ef{
+    color:white;
+    background-color: brown;
+    text-align: right;
+}
+.gh{
+    color:white;
+    background-color: brown;
+    text-align: right;
+}
